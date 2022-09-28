@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/StakingDapp/static/css/main.5be9c81f.css",
+    "main.js": "/StakingDapp/static/js/main.b7c94c91.js",
+    "index.html": "/StakingDapp/index.html",
+    "main.5be9c81f.css.map": "/StakingDapp/static/css/main.5be9c81f.css.map",
+    "main.b7c94c91.js.map": "/StakingDapp/static/js/main.b7c94c91.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5be9c81f.css",
+    "static/js/main.b7c94c91.js"
+  ]
+}
